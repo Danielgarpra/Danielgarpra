@@ -3,7 +3,7 @@
 🎯 **Industrial Engineer Specializing in Data Science**
 
 I am calm, curious, and passionate about solving problems through data.  
-My experience in industrial engineering has given me a strong foundation in **analysis**, **process optimization**, and **project management**—skills that I now apply on my journey in **Data Science**.
+My experience in industrial engineering has given me a strong foundation in **analysis**, **process optimization**, and **project management**—skills that I now apply on my journey in **Data Engineering**.
 
 ---
 
