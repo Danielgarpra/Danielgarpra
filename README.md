@@ -22,7 +22,7 @@ I’m always on the lookout for **new learning opportunities** and **challenges*
 - 🐍 Python | 🤖 SQL | ☁️ PySpark
 - 🧠 Machine Learning | 🧭 AI
 - 🗃️ ETL & ELT | Airflow
-- 🔗 APIs | ☁️ Cloud: AWS | 🐳 Docker |🧾Git
+- 🔗 APIs | ☁️ Cloud: AWS | 🐳 Docker |🧾Git | dbt 
 
 ### 📊 Data Visualization
 - 📈 Tableau | 📉 PowerBI | 📉 Matplotlib | 🌈 Seaborn
