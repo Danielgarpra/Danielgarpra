@@ -40,4 +40,4 @@ I’m always on the lookout for **new learning opportunities** and **challenges*
 
 ---
 
-_Thanks for stopping by! Let's build something meaningful together._ 🤝
+_Thanks for stopping by!
